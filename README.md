@@ -1,6 +1,6 @@
 # Project-Check
 
-A simple TRELLO based Android application that helps Users create Management Boards, setup timelines and assign members for Project Management. 
+A simple TRELLO-based Android application that helps Users create Management Boards, setup timelines and assign members for Project Management. 
 Application uses Firebase Firestore database for CRUD operations and storing user information. This application is based on the MVVM (Model-View-View-Model) architecture.
 
 Screenshots of the Android Application:
